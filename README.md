@@ -10,6 +10,8 @@ To get started, please clone this repository:
 git clone https://github.com/jnhansen/sense_week4
 ```
 
+This may take a moment because the repository includes a few sample data sets (~200MB).
+
 Next, you should setup your anaconda environment.
 If you already have an environment that you are working in
 just make sure to have the following packages installed:

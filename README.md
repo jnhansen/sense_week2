@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jnhansen/sense_week4/master)
+
 # SENSE Training Week 4
 
 Welcome to week 4 of the SENSE CDT training.
@@ -24,7 +26,7 @@ just make sure to have the following packages installed:
 Alternatively, you can install a new environment using the provided environment configuration file:
 
 ```
-conda env create -f env.yml
+conda env create -f environment.yml
 ```
 
 Finally, activate your environment and launch jupyter notebook (make sure you are in the directory of this git repository).

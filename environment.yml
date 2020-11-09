@@ -9,3 +9,4 @@ dependencies:
   - numpy
   - scikit-learn
   - xarray
+  - netcdf4

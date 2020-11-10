@@ -20,6 +20,7 @@ just make sure to have the following packages installed:
 - `jupyter`
 - `numpy`
 - `xarray`
+- `netcdf4`
 - `matplotlib`
 - `scikit-learn`
 

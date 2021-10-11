@@ -1,4 +1,4 @@
-name: sense4
+name: sense
 channels:
   - conda-forge
   - defaults

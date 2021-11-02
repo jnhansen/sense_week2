@@ -4,7 +4,7 @@
 
 Welcome to week 2 of the SENSE CDT training.
 
-During this week's practicals we will be looking at some regression and filtering examples, applied to Earth Observation data.
+During this week's practicals we will be looking at some regression, classification, and filtering examples, applied to Earth Observation data.
 
 To get started, please clone this repository:
 
@@ -12,7 +12,7 @@ To get started, please clone this repository:
 git clone https://github.com/jnhansen/sense_week2
 ```
 
-This may take a moment because the repository includes a few sample data sets (~200MB).
+This may take a moment because the repository includes a few sample data sets (~450MB).
 
 Next, you should setup your anaconda environment.
 If you already have an environment that you are working in

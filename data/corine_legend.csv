@@ -1,0 +1,48 @@
+,GRID_CODE,CLC_CODE,LABEL3,RGB,R,G,B
+0,1,111,Continuous urban fabric,230-000-077,230,000,077
+1,2,112,Discontinuous urban fabric,255-000-000,255,000,000
+2,3,121,Industrial or commercial units,204-077-242,204,077,242
+3,4,122,Road and rail networks and associated land,204-000-000,204,000,000
+4,5,123,Port areas,230-204-204,230,204,204
+5,6,124,Airports,230-204-230,230,204,230
+6,7,131,Mineral extraction sites,166-000-204,166,000,204
+7,8,132,Dump sites,166-077-000,166,077,000
+8,9,133,Construction sites,255-077-255,255,077,255
+9,10,141,Green urban areas,255-166-255,255,166,255
+10,11,142,Sport and leisure facilities,255-230-255,255,230,255
+11,12,211,Non-irrigated arable land,255-255-168,255,255,168
+12,13,212,Permanently irrigated land,255-255-000,255,255,000
+13,14,213,Rice fields,230-230-000,230,230,000
+14,15,221,Vineyards,230-128-000,230,128,000
+15,16,222,Fruit trees and berry plantations,242-166-077,242,166,077
+16,17,223,Olive groves,230-166-000,230,166,000
+17,18,231,Pastures,230-230-077,230,230,077
+18,19,241,Annual crops associated with permanent crops,255-230-166,255,230,166
+19,20,242,Complex cultivation patterns,255-230-077,255,230,077
+20,21,243,"Land principally occupied by agriculture, with significant areas of natural vegetation",230-204-077,230,204,077
+21,22,244,Agro-forestry areas,242-204-166,242,204,166
+22,23,311,Broad-leaved forest,128-255-000,128,255,000
+23,24,312,Coniferous forest,000-166-000,000,166,000
+24,25,313,Mixed forest,077-255-000,077,255,000
+25,26,321,Natural grasslands,204-242-077,204,242,077
+26,27,322,Moors and heathland,166-255-128,166,255,128
+27,28,323,Sclerophyllous vegetation,166-230-077,166,230,077
+28,29,324,Transitional woodland-shrub,166-242-000,166,242,000
+29,30,331,"Beaches, dunes, sands",230-230-230,230,230,230
+30,31,332,Bare rocks,204-204-204,204,204,204
+31,32,333,Sparsely vegetated areas,204-255-204,204,255,204
+32,33,334,Burnt areas,000-000-000,000,000,000
+33,34,335,Glaciers and perpetual snow,166-230-204,166,230,204
+34,35,411,Inland marshes,166-166-255,166,166,255
+35,36,412,Peat bogs,077-077-255,077,077,255
+36,37,421,Salt marshes,204-204-255,204,204,255
+37,38,422,Salines,230-230-255,230,230,255
+38,39,423,Intertidal flats,166-166-230,166,166,230
+39,40,511,Water courses,000-204-242,000,204,242
+40,41,512,Water bodies,128-242-230,128,242,230
+41,42,521,Coastal lagoons,000-255-166,000,255,166
+42,43,522,Estuaries,166-255-230,166,255,230
+43,44,523,Sea and ocean,230-242-255,230,242,255
+44,48,999,NODATA,,,,
+45,49,990,UNCLASSIFIED LAND SURFACE,,,,
+46,50,995,UNCLASSIFIED WATER BODIES,230-242-255,230,242,255

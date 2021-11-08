@@ -11,5 +11,3 @@ dependencies:
   - xarray
   - netcdf4
   - pip
-  - pip:
-    - nd==0.3.1
